@@ -24,15 +24,18 @@ Este projeto permite ao usuário gerenciar tarefas de forma simples, utilizando 
 
 1 - Clone o Repositório:
 
-Bash
+```Bash```
 
-git clone https://github.com/pdro-jpg/to-do.list.git
-cd to-do.list
+```git clone https://github.com/pdro-jpg/to-do.list.git```
+
+```cd to-do.list```
 
 2 - Compile e Execute (Java Puro) : Se você não estiver usando Maven ou Gradle, use os comandos nativos do JDK:
 
-Bash
-javac Task.java TaskList.java Main.java 
-java Main
+```Bash```
+
+```javac Task.java TaskList.java Main.java```
+
+```java Main```
 
 3 - Interaja com o Menu: O programa iniciará um menu no console. Digite o número da opção desejada (1, 2, 3, 4 ou 0) e pressione Enter.
