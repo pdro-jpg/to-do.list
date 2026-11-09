@@ -4,7 +4,7 @@ public class Main{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        taskList list = new taskList();
+        TaskList list = new TaskList();
         int option = -1;
 
         System.out.println("To-Do List em Java");
