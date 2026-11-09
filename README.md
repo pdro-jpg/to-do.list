@@ -34,8 +34,7 @@ Este projeto permite ao usuário gerenciar tarefas de forma simples, utilizando 
 
 ```Bash```
 
-```javac Task.java TaskList.java Main.java```
-
-```java Main```
+```javac -d out src/*.java```
+```java -cp out Main```
 
 3 - Interaja com o Menu: O programa iniciará um menu no console. Digite o número da opção desejada (1, 2, 3, 4 ou 0) e pressione Enter.
